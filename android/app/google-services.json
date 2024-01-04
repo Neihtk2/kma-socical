@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847396473802",
+    "project_id": "ttcs-nhom9",
+    "storage_bucket": "ttcs-nhom9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847396473802:android:8b20ab3de1fe3f9f195d33",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRzZ40_FaG6vPeJE5eU4BxaFm1i9YQKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
